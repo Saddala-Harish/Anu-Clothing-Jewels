@@ -1,0 +1,6 @@
+{
+  "name": "Varam Vastra & Jewels - Boutique Storefront",
+  "description": "An authentic Indian women's boutique offering handcrafted Sarees, Women's Clothing, Girls' Dresses, Bangles, and 1-Gram Gold Jewellery with WhatsApp ordering and instant checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
